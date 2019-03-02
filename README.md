@@ -6,7 +6,7 @@ Bamazon is a simple NodeJS app using MySQL and Inquirer.
 
 The user starts with the following view of the products table:
 
-![Cust1](images/img1.png)
+![Cust1](https://raw.githubusercontent.com/DillonPittman/Bamazon/master/Images/img1.PNG)
 
 From here, the user may quit, or choose an option. If the user chooses a vaild option, they are then prompted to select a number of the corresponding item to purchase. A valid input subtracts that number from the corresponding stock_quantity.
 
